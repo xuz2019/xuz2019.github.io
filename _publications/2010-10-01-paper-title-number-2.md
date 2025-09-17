@@ -1,7 +1,7 @@
 ---
 title: "Generalization Performance of Ensemble Clustering: From Theory to Algorithm"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2025-09-12
 venue: 'Forty-Second International Conference on Machine Learning'
