@@ -4,13 +4,9 @@
     "email": "xuz@seu.edu.cn",
     "phone": "",
     "website": "https://xuz2019.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Nanjing, China"
     },
     "profiles": [
       {
@@ -25,8 +21,8 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "xuz2019",
+        "url": "https://github.com/xuz2019"
       }
     ]
   },
