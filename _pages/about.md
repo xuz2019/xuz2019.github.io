@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-Hi! I am Xu Zhang, a Master's student at the School of Computer Science, Southeast University (SEU), expected to graduate in 2026. I obtained my Bachelor's degree from Chongqing University (CQU). Currently, my research interests focus on Clustering Analysis and Learning Theory.
+Hi! I am Xu Zhang, a Master's student at the School of Computer Science, Southeast University (SEU), expected to graduate in 2026. I obtained my Bachelor's degree from Chongqing University (CQU). Currently, my research interests focus on Clustering Analysis and Learning Theory, under the guidance of Associate Professor [Yuheng Jia](https://jyh-learning.github.io/).
