@@ -27,10 +27,10 @@ author:
   name             : "Xu Zhang (张旭)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Nanjing"
+  employer         : "Southeast University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xuz@seu.edu.cn" 
 
   # Academic websites
   academia         : # URL
