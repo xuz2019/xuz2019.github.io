@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. Southeast University, 2023-2026(expected)
-* B.S. Chongqing University, 2019-2023
+* M.S. Southeast University, 2023 - 2026 (expected)
+* B.S. Chongqing University, 2019 - 2023
 
 Publications
 ======
